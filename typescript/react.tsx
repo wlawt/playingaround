@@ -85,7 +85,7 @@
  interface Props {
      foop: string;
  }
-
+/* 
  import React, { Component } from 'react'
  
  export default class a extends Component<Props, {}> {
@@ -104,6 +104,6 @@
              </span>
          )
      }
- }
+ } */
  
  
